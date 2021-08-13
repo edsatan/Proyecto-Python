@@ -43,7 +43,7 @@ Con el repositorio de datos pretendemos contestar las siguientes preguntas:
 - ¿Cuál es el comportamiento de los delitos de orden sexual en nuestro país?
 ---
 ## Código Colab :gear:
-El Google colab del código se puede encontrar en el siguiente enlace https://colab.research.google.com/drive/1m8gxsei8xS6hXvCMA0kUWSoLLOf6LAew?authuser=3#scrollTo=-8UZLujGo0pM
+El Google colab del código se puede encontrar en el siguiente enlace https://colab.research.google.com/drive/1m8gxsei8xS6hXvCMA0kUWSoLLOf6LAew?usp=sharing
 
 ## Código local :computer:
 Si desea correr el código de manera local, clona este repositorio y tendrá una estructura como la siguiente...
