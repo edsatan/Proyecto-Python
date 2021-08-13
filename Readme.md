@@ -2,7 +2,7 @@
 <img src="./img_readme/dontCross.png">
 
 ## Equipo 9 :robot:
-- Santiago Ramírez Iturbide
+- Santiago Ramírez Iturbe
 - Fernando Valdez Espinosa
 - Juan Manuel Castro Ascencio
 - Jaime Rodrigo González Rodríguez
